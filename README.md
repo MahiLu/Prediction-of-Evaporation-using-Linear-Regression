@@ -12,9 +12,9 @@ The purpose of this project is to create a statistical machine learning model to
 6. Statsmodels
 
 ### Instructions
-To run this code you need to first install Xarray. You might need to uninstall matplotlib first as that might cause errors while you try to read the files. Once you have installed all the above libraries you can run the code for the analysis models.
+You need to install the python library packages listed above and download the correspondig input files.
 
-The respository contains all the codes used to display visualizations as well a work on the analysis.
+The respository contains all the codes used to display visualizations and analysis.
 
 ##### Authored by: Mahedermariam Dagne
 
